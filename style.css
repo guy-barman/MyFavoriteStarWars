@@ -1,0 +1,26 @@
+
+#content{
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+#moviesList{
+  margin-left: 30px;
+}
+
+h1 {
+  margin-bottom:  15px;
+  text-decoration: underline;
+}
+
+
+#movieTitle {
+  margin-top:  15px;
+  font-weight: bold;
+}
+
+#errorMessage {
+  font-size: 30px;
+  color: Blue;
+}
